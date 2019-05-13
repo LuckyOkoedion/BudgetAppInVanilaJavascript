@@ -1,0 +1,1 @@
+This is a budget app for calculating the difference between income and expenditure. Built in pure vanilla javascript.
